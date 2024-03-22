@@ -1,0 +1,15 @@
+{
+  "name": "45 excersice",
+  "version": "1.0.0",
+  "description": "solve question 45 assignment  governor initiative",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mehren Shahzad Roll # 00403586",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.11.20"
+  }
+}
