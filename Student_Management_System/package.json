@@ -1,0 +1,21 @@
+{
+  "name": "m6-student-management-system",
+  "version": "1.0.0",
+  "description": "solve question 45 assignment governor initiative",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mehreen Shahzad Roll # 00403586",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.11.20"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.20",
+    "install": "^0.13.0"
+  }
+}
